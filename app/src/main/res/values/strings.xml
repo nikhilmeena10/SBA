@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Swachh Bharat Abhiyan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_events">Events</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Map</string>
+
+    <!-- Toolbar -->
+    <string name="toolbar_profile">Profile</string>
+</resources>
